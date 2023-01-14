@@ -1,9 +1,9 @@
 [
-    {"alumno":"Cristopher","nota":2,"ranking":90},
-    {"alumno":"Juan","nota":3.5,"ranking":85},
+    {"alumno":"Cristopher","nota":2,"ranking":100},
+    {"alumno":"Juan","nota":3.5,"ranking":80},
     {"alumno":"Maria","nota":4,"ranking":65},
-    {"alumno":"Viviana","nota":5,"ranking":70},
-    {"alumno":"Rosa","nota":6.5,"ranking":50},
+    {"alumno":"Viviana","nota":5,"ranking":50},
+    {"alumno":"Rosa","nota":6.5,"ranking":40},
     {"alumno":"Luis","nota":7,"ranking":35},
     {"alumno":"Michelle","nota":8,"ranking":20},
     {"alumno":"Valeria","nota":9,"ranking":10},
